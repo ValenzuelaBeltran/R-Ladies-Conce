@@ -2,6 +2,8 @@
 #sientas cómod@ y con la libertad de plantearnos cualquier tipo de duda, estamos
 #para apoyarte!
 
+# Este taller fue creado para los amigos de power bi. En la cración participaron Luisa Reyes, Natalia Riquelme y Macarena Valenzuela
+
 # Si ya tienes el programa R o RStudio instalado en tu ordenador, daremos inicio al
 #taller, en caso contrario, puedes dar aviso a una de las coordinadoras y
 #te ayudaremos con la instalación.
