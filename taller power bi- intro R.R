@@ -464,3 +464,5 @@ pie(table(Region))
 
 pie3D(table(Region))
 
+######## Falta el taller de series de tiempo que expusiste en el taller de power bi####
+
